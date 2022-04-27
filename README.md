@@ -350,3 +350,4 @@ You can opt-out of telemetry by
 
 Read more about vcpkg telemetry at docs/about/privacy.md
 # teste1
+# teste1
